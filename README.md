@@ -1,7 +1,7 @@
 Fluentd meetup 20190717 in OSS Summit Co Located Events
 ===
 
-Published at slideshare: TBD.
+Published at slideshare: https://www.slideshare.net/cosmo0920/fluentd-meetup-2019
 
 ### LICENSE
 
